@@ -1,0 +1,72 @@
+body,
+div {
+  margin: 0px;
+  padding: 0px;
+}
+
+.font {
+  font-size: 48px;
+  line-height: 58px;
+
+  font-family: "Montserrat";
+  font-weight: 700;
+  margin-bottom: 80px;
+}
+
+.period {
+  color: #f3164d;
+  font-size: 48px;
+  line-height: 58px;
+
+  font-family: "Montserrat";
+  font-weight: 700;
+  margin-bottom: 80px;
+}
+
+.scool {
+  margin-top: 48px;
+  margin-left: 150px;
+  height: 187px;
+}
+
+.font2 {
+  font-size: 20px;
+  line-height: 24px;
+
+  font-family: "Montserrat";
+  font-weight: 500;
+  margin-left: 1062px;
+  margin-top: 68px;
+}
+
+.button{
+    background-color: #F3164D;
+    border:8px 8px 8px 8px;
+    width: 211px;
+    height:64px;
+    /* display: inline; */
+    
+ 
+  margin-left:45px;
+  margin-top:48px;
+  /* margin-right: 128px; */
+  border-radius:10px;
+
+  
+}
+
+.font3{
+    font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color:white;
+  padding-left:56px;
+  padding-right: 55px;
+  padding-top: 18px;
+  padding-bottom: 17px;
+  width:100px;
+  height: 29px;
+  text-align: center;
+  
+}
