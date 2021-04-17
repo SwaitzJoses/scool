@@ -271,12 +271,12 @@ margin-left:42px ;
   margin-left: 150px;
   margin-right: 32px;
   /* margin-top: 24px; */
-  /* position: absolute; */
+  position: absolute;
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 0 20px #00000024;
-  position: relative;
-  position: relative;
+ 
+  
   top:-185px;
 }
 

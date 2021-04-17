@@ -1,0 +1,59 @@
+.side1{
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #00000024;
+  margin:40px 32px 40px 150px;
+  width: 510px;
+  height: 483px;
+
+}
+
+.side2{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #00000024;
+    margin:40px 128px 40px 32px;
+    width: 1100px;
+    height: 483px;
+  
+  }
+
+  .s1-title{
+      width: 1000px;
+      height: 39px;
+      font-family: "Montserrat";
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.32px;
+      line-height: 55px;
+      text-align: left;
+      padding:30px 128px 24px 132px;
+      margin-bottom: 24px;
+      
+  }
+
+  .s1-line{
+      width:206px;
+      height: 2px;
+      background-color: #F3164D ;
+      margin:48px 150px 61px 154px;
+      border-radius: 16px;
+  }
+
+
+  ul {
+    list-style: none;
+  }
+
+
+
+
+
+  ul li::before {
+    content: "\2022";
+    color:  #F3164D ;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }

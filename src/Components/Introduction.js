@@ -4,17 +4,17 @@ import "../css/introduction.css";
 
 function Introduction() {
   return (
-    <Row>
-      <Col sm={8}>
+    <Row p-0 m-0>
+      <Col sm={8} p-0 m-0>
         <img className="img1" src="Startup-41-1019x573.webp" alt="img1"></img>
         <div className="above-img1">
-          <Row>
-            <Col sm={8}>
+          <Row p-0 m-0>
+            <Col sm={8} p-0 m-0>
             
               <p className="heading">Iphone videography for product</p>
               <hr className='line'></hr>
             </Col>
-            <Col sm={2}>
+            <Col sm={2} p-0 m-0>
               <div className="oldprice">₹999</div>{" "}
             </Col>
             <Col sm={2}>
@@ -25,7 +25,7 @@ function Introduction() {
           <Row>
             <Col sm={9}>
            
-              <div className="promo">Apply Promocode</div>
+              <a href="#" className="promo">Apply Promocode</a>
               <Row>
                 <Col sm={4}>
                   <div className="pp1"><i class="far fa-user"></i> By Shashank Mittal</div>
@@ -45,8 +45,8 @@ function Introduction() {
             </Col>
           </Row>
         </div>
-        <Row>
-        <Col sm={8}>
+        <Row p-0 m-0>
+        <Col sm={8} p-0 m-0>
         <div className="above-img2">
         <p className="a-i2">Brief Description</p>
         <hr className='line2'></hr>
