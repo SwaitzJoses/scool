@@ -1,0 +1,58 @@
+.s11-title{
+    width: 602px;
+    height: 140px;
+    font-family: "Montserrat";
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.32px;
+    line-height: 55px;
+    text-align: center;
+    padding:52px 150px 0px 80px;
+    margin-bottom: 24px;
+}
+
+.side55{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #00000024;
+   margin:40px 128px 0px 0px;
+    width: 518px;
+    height: 1700px;
+    /* padding: 0px; */
+  
+  }
+
+  .s11-line{
+    width:206px;
+    height: 2px;
+    background-color: #F3164D ;
+    margin:40px 150px 61px 154px;
+    border-radius: 16px;
+  }
+
+  .s51-des{
+    padding: 40px 32px 0px 33px ;
+    width:467px;
+    height: 232px;
+    line-height: 30px;
+    font-size: 24px;
+    font-size: "Montserrat";
+    font-weight: 400;
+    text-align: center;
+  }
+
+  .ul1{
+
+  }
+
+  .li1{
+      padding-top: 56px 80px;
+      width:420px;
+      font-size: 24px;
+      font-weight: 400;
+      height: 283px;
+  }
+
+  b{
+      font-weight: 700;
+  }
