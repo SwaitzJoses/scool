@@ -10,7 +10,9 @@ function Introduction() {
         <div className="above-img1">
           <Row>
             <Col sm={8}>
+            
               <p className="heading">Iphone videography for product</p>
+              <hr className='line'></hr>
             </Col>
             <Col sm={2}>
               <div className="oldprice">₹999</div>{" "}
@@ -22,13 +24,14 @@ function Introduction() {
           </Row>
           <Row>
             <Col sm={9}>
+           
               <div className="promo">Apply Promocode</div>
               <Row>
                 <Col sm={4}>
                   <div className="pp1"><i class="far fa-user"></i> By Shashank Mittal</div>
                 </Col>
                 <Col sm={4}>
-                <div className="pp2"><i class="far fa-calendar-alt"></i>05 March 2021</div>
+                <div className="pp2"><i class="far fa-calendar-alt"></i> 05 March 2021</div>
                 </Col>
                 <Col sm={4}>
                 <div className="pp3"><i class="far fa-clock"></i> 09:00 AM to 11:00 AM</div>
@@ -42,6 +45,15 @@ function Introduction() {
             </Col>
           </Row>
         </div>
+        <Row>
+        <Col sm={8}>
+        <div className="above-img2">
+        <p className="a-i2">Brief Description</p>
+        <hr className='line2'></hr>
+        <p className="a-i3">The framework that allowed her to overcome self-doubt and carve her own path as an author, broadcaster, and podcast host. The secret to her success? Digital Marketing 101 is the ultimate primer you need to get started with a career</p>
+        </div>
+        </Col>
+        </Row>
       </Col>
 
       <Col sm={4}>
@@ -52,6 +64,13 @@ function Introduction() {
             alt="img2"
             fluid
           ></img>
+          <p className="p-name">Deepika Shapeti</p>
+          <p className="p-name2">Obsessive Serial Entrepreneur</p>
+          <hr className='p-name3'></hr>
+          <p className='p-name4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p className="p-name5">BIOGRAPHY</p>
+          <p className="p-name6">THRILLER</p>
+          <p className="p-name7">HORROR</p>
         </div>
       </Col>
     </Row>
