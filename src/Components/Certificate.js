@@ -8,9 +8,20 @@ function Certificate() {
         <Row>
 
         <Col sm={8}>
-        <div className="side4">
-         
+        <div className="side-c">
+        <p className="borderm"> 
+        <div className="scool2"> <div className="c1">scool</div><div className="period2">.</div>
         </div>
+
+        <div className="c2">
+        Experiential Micro-Course on
+        </div>
+
+        <hr className="solid"></hr>
+        <p className="solid2"></p>
+
+
+        </p></div>
       </Col>
       <Col sm={4}>
         <div className="side55">
