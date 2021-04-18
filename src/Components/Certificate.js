@@ -19,6 +19,9 @@ function Certificate() {
 
         <hr className="solid"></hr>
         <p className="solid2"></p>
+        <p className="solid3">Iphone videography for product</p>
+        <p className="solid4">scool.</p>
+        <p className="solid5">Iphone videography for product</p>
 
 
         </p></div>

@@ -143,6 +143,42 @@ b {
     margin-left: 458px;
    margin-top: 24px  ;
    position: absolute;
-  
-   /* z-index: -1; */
   }
+
+  .solid3{
+    margin-left: 458px;
+   margin-top: 24px  ;
+   position: absolute;
+   font-size: 24px;
+   font-family: "Montserrat";
+   text-align: right;
+   color: white;
+   font-weight: 700;
+   width: 296px;
+   height: 53px;
+   margin-left: 643px;
+   line-height: 24px;
+   margin-right: 53px;
+}
+
+.solid4{
+  width: 666px;
+  height: 272px;
+  font-size: 223px;
+  font-family: "Montserrat";
+  text-align: left;
+  line-height: 272px;
+  opacity: 5%;
+  margin: 648px 162px 0px 164px;
+}
+
+.solid5{
+  width: 638px;
+  height: 49px;
+  font-family: "Montserrat" ;
+  font-size: 40px;
+  text-align: left;
+  letter-spacing: -0.4px;
+  line-height: 55px;
+ margin: 210px 277px 0px 77px;
+}
